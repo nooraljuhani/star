@@ -1,0 +1,19 @@
+.s1{
+	width: 80px;
+	height: 80px;
+   background-color: #fff;
+   border:solid; 
+   color: red;}
+p{
+	transform:translate(60px,500px);
+	 transform: rotate(40deg);
+	 margin: -2px;}
+div{
+	margin-top: 50px;
+   margin-left: 50px;
+    }
+
+    .s2{
+    	background-color: red;
+    	margin-left: 100px;
+    }
